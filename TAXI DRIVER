@@ -1,0 +1,3 @@
+mkdir taxi-app-backend && cd taxi-app-backend
+npm init -y
+npm install express dotenv cors pg bcryptjs jsonwebtoken stripe prisma
